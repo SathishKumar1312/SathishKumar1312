@@ -3,7 +3,7 @@
 FullStack Developer | Actively Seeking for Job
 - 🔭 Get to know me with my [Portfolio](https://sathishkumarm.me/)
 - 📚 Here's my [Resume](https://sathishkumarm.me/assets/Sathishkumar_Resume.pdf)
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Advanced Java
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me :
