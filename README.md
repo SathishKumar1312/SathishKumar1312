@@ -9,9 +9,9 @@
   <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
   
 - FullStack Developer | Actively Seeking for Job
-- 🔭 Get to know me with my [Portfolio](https://sathishm.tech/)
-- 📚 Here's my [Resume](https://sathishm.tech/resume)
-- 💼 Some of my [Projects](https://sathishm.tech/works)
+- 🔭 Get to know me with my [Portfolio](https://sathishkumar13.netlify.app)
+- 📚 Here's my [Resume](https://sathishkumar13.netlify.app/resume)
+- 💼 Some of my [Projects](https://sathishkumar13.netlify.app/works)
 - 🌱 I’m currently learning Advanced Java
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
