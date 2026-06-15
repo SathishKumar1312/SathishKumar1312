@@ -106,22 +106,6 @@ public class SathishKumar {
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishKumar1312&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SathishKumar1312&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 💰 FinanceTracker — Offline-First Personal Finance Workspace
@@ -168,6 +152,14 @@ A modern personal portfolio showcasing projects, technical skills, resume, and p
 
 🔗 Live Demo: https://sathishtech.netlify.app
 
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathishKumar1312&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
